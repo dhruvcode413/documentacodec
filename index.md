@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### About
 
-So if you are engineer at DCode So, For searching some help you can visit me!. I am made by one DCoder for many DCoders
+So if you are engineer at DCode So, For searching some help you can visit me!. I am made by DCoder for DCoders
 
 ```markdown
 Syntax highlighted code block
