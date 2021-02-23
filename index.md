@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/dhruvcode413/documentacode
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So if you are engineer at DCode So, For searching some help you can visit me!. I am made by one DCoder for many DCoders
 
 ```markdown
 Syntax highlighted code block
