@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Documentation for DCode's Stuff
 
 You can use the [editor on GitHub](https://github.com/dhruvcode413/documentacodec/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
