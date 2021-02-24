@@ -1,13 +1,11 @@
-## Documentation for DCode's Stuff
+# Documentation for DCode's Stuff
 
-### About
+## About
 
 So if you are engineer at DCode So, For searching some help you can visit me!. I am made by DCoder for DCoders!
 
-### Support or Contact
+## Support or Contact
 
-# Call
-: +918767634505
+### Call : +918767634505
 
-# Email
-: contact.dcode.mail@gmail.com
+### Email : contact.dcode.mail@gmail.com
